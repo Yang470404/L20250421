@@ -11,7 +11,3 @@ AWall::~AWall()
 void AWall::Tick()
 {
 }
-
-void AWall::Shape()
-{
-}

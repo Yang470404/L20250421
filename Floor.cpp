@@ -12,6 +12,3 @@ void AFloor::Tick()
 {
 }
 
-void AFloor::Shape()
-{
-}

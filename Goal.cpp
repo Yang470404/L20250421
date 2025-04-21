@@ -12,6 +12,3 @@ void AGoal::Tick()
 {
 }
 
-void AGoal::Shape()
-{
-}

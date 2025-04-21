@@ -7,6 +7,5 @@ public:
 	virtual ~AGoal();
 
 	virtual void Tick() override;
-	virtual void Shape() override;
 };
 

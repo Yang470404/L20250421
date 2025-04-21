@@ -8,5 +8,4 @@ public:
 	virtual ~AWall();
 
 	virtual void Tick() override;
-	virtual void Shape() override;
 };

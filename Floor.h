@@ -9,6 +9,5 @@ public:
 	virtual ~AFloor();
 
 	virtual void Tick() override;
-	virtual void Shape() override;
 };
 
